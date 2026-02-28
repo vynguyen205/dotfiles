@@ -1,1 +1,0 @@
-/Users/vynguyen/.config/tmux
